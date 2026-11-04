@@ -1,0 +1,26 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# 临时文件与日志
+*.log
+*.tmp
+tmp/
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+__pycache__/
+
+# 环境变量与密钥（不要提交敏感信息）
+.env
+.env.*
+*.pem
+*.key
